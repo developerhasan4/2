@@ -1,17 +1,22 @@
 [
   {
-    "movie_title": "Tofaan",
+    "movie_title": "Toofan",
     "movie_poster": "https://i.pinimg.com/736x/1b/cc/67/1bcc67b68e328702148a4ad22c08f9c4.jpg",
     "movie_url": "https://example.com/video1.mp4"
   },
   {
     "movie_title": "K.G.F 5",
     "movie_poster": "https://i.pinimg.com/736x/9f/f7/3f/9ff73f0f9eded491abde6f6313d60e52.jpg",
-    "movie_url": "https://example.com/video2.mp4"
+    "movie_url": "https://example.com/video1.mp4"
   },
   {
-    "movie_title": "Glass ",
+    "movie_title": "Glass",
     "movie_poster": "https://i.pinimg.com/236x/c5/19/21/c5192123b6447cd7292ed37b73d40139.jpg",
-    "movie_url": "https://example.com/video3.mp4"
-  }
+    "movie_url": "https://example.com/video1.mp4"
+  },
+  {
+    "movie_title": "Toofan",
+    "movie_poster": "https://i.pinimg.com/736x/1b/cc/67/1bcc67b68e328702148a4ad22c08f9c4.jpg",
+    "movie_url": "https://example.com/video1.mp4"
+  }
 ]
